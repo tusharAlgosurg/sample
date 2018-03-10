@@ -49,7 +49,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "",
+        "title": "Algosurg",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
